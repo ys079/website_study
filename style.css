@@ -1,0 +1,28 @@
+
+.color-primary{
+    color: rebeccapurple;
+}
+.font-50{
+    font-size: 80px;
+}
+.select-style{
+    font-style: italic;
+    font-size: 10px;
+}
+.tb-head>tr>td{
+    border: 1px solid #000;
+    font-size: 20px;
+    font-weight: bold;
+}
+.tb-body>tr>td{
+    border: 1px solid #000;
+    font-style: italic;
+}
+.a{
+    color: darkcyan;
+    font-size: 30px;
+    font-style: italic;
+}
+p{
+    font-size: 17px;
+}
